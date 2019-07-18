@@ -7,4 +7,4 @@
 1. Item 7 7. Make sure the code is able to run 
 1. Item 8 8. Review the code to make sure everything is correct 
 1. Item 9 9. Make any changes that was not correct 
-1. Item 10 10. Run the code to make sure it will ru
+1. Item 10 10. Run the code to make sure it will run
