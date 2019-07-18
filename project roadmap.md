@@ -7,4 +7,4 @@ Item 6 6. Work on the code until it is finished
 Item 7 7. Make sure the code is able to run 
 Item 8 8. Review the code to make sure everything is correct 
 Item 9 9. Make any changes that was not correct 
-Item 10 10. Run the code to make sure it will run
+Item 10 10. Run the code to make sure it will ru
