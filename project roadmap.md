@@ -9,3 +9,4 @@
 1. Item 9 9. Review the code to make sure everything is correct 
 1. Item 10 10. Make any changes that was not correct 
 1. Item 11 11. Run the code to make sure it will run
+1. Item 12 12. Finish the Project Presentation
